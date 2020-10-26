@@ -1,6 +1,6 @@
 # rcapp
 
-A new Flutter application.
+A new Flutter food application.
 
 ## Getting Started
 
